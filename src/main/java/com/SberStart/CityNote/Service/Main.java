@@ -1,12 +1,5 @@
 package com.SberStart.CityNote;
 
-import com.SberStart.CityNote.Entity.City;
-import org.springframework.stereotype.Service;
-
-import java.io.*;
-import java.nio.file.Paths;
-import java.util.*;
-import java.util.stream.Collectors;
 
 @Service
 public class Main {
